@@ -36,4 +36,4 @@ Operators/Symbols: 30
 Sabbir Ahmed Bappi – Daffodil International University, CSE
 
 ![Console Output](Images/Output_VS_code.png)
-![HTML Output](images/Output_html.png)
+![HTML Output](Images/Output_html.png)
