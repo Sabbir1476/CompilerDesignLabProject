@@ -30,6 +30,10 @@ Operators/Symbols: 30
 1. Compile the program with `gcc highlight.c -o highlight`  
 2. Run with `./highlight`  
 3. Open `output.html` to see highlighted code in browser
+   
 
 ## Author
 Sabbir Ahmed Bappi – Daffodil International University, CSE
+
+![Console Output](Images/Output_VS_code.png)
+![HTML Output](images/Output_html.png)
